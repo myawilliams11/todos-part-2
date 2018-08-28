@@ -17,5 +17,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://myawilliams11.github.io/todos-part-1"
+  "homepage": "https://myawilliams11.github.io/todos-part-2"
 }
